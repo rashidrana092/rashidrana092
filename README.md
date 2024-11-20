@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rana Rashid</h1>
+<h1 align="center">Hi 👋, I'm Rana Rashid Ali</h1>
 <h3 align="center">A passionate Mobile App developer from Pakistan</h3>
 
 - 🌱 I’m currently learning **React Native**
